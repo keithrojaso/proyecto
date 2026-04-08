@@ -6,6 +6,37 @@
   <title>Nuevo Producto</title>
   <link rel="stylesheet" href="estiloscrear.css">
 </head>
+    <style>
+  body{
+  font-family: Times New Roman, serif;
+  background: #f3f4f6;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100px;
+}
+
+.tra{
+  background: #2536eb;
+  padding:20px;
+  border-radius:10px;
+  width:280px;
+  text-align:center;
+}
+
+input, select, button{
+  width:100%;
+  margin:8px 0;
+  padding:8px;
+  border-radius:5px;
+  border:1px solid blue;
+}
+
+button{
+  background:#4facfe;
+  color:white;
+}
+  </style>
 <body>
 
 <div class="tra">
