@@ -17,24 +17,24 @@
 }
 
 .tra{
-  background: #ffffff;
-  padding:25px;
-  border-radius:15px;
-  width:320px;
-  text-align:center;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-  animation: fadeIn 0.8s ease-in-out;
+ background: #ffffff;
+ padding:25px;
+ border-radius:15px;
+ width:320px;
+ text-align:center;
+ box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+ animation: fadeIn 0.8s ease-in-out;
 }
 
 input, select, button{
-  width:100%;
-  margin:10px 0;
-  padding:10px;
-  border-radius:8px;
-  border:1px solid #ccc;
-  outline:none;
-  transition:0.3s;
-  font-size:14px;
+      width:100%;
+      margin:10px 0;
+      padding:10px;
+      border-radius:8px;
+      border:1px solid #ccc;
+      outline:none;
+      transition:0.3s;
+      font-size:14px;
 }
 
 button{
